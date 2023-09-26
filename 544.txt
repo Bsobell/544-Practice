@@ -3,4 +3,9 @@ Now We practice
 woohoo
 Lets go
 Including the data from our sample we can assess changes
+
 Use analytics
+
+
+
+Maybe or maybe not include analytics based on this data
